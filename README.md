@@ -1,6 +1,6 @@
 ## About Me:
 
-My BFA is in Media Arts and Animation. I'm a software engineer with a passion for problem-solving and design. My goals are to learn as much as possible and make a possitive impact on every project i'm involved in.
+My BFA is in Media Arts and Animation. I'm a software engineer with a passion for problem-solving and design. My goals are to learn as much as possible and make a positive impact on every project I'm involved in.
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
