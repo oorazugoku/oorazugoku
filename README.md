@@ -22,4 +22,4 @@ My BFA is in Media Arts and Animation. I'm a software engineer with a passion fo
 ![SQLite3](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## My Socials
-<a href="https://www.linkedin.com/in/benjamin-durham-full-stack/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="www.linkedin.com/in/thebendurham" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
